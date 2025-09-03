@@ -1,8 +1,8 @@
-# WiredBrainCoffee.CustomersApp
+# WiredBrainCoffeeApp
 
-The **WiredBrainCoffee.CustomersApp** is a C# desktop application built with the **Model-View-ViewModel (MVVM)** pattern and the **Windows Presentation Foundation (WPF)** framework.
+The **WiredBrainCoffeeApp** is a C# desktop application built with the **Model-View-ViewModel (MVVM)** pattern and the **Windows Presentation Foundation (WPF)** framework.
 
-It manages customer data for a fictional coffee company and demonstrates a clean, maintainable architecture for modern desktop applications.
+It manages customer data for a coffee company and demonstrates a clean, maintainable architecture for modern desktop applications.
 
 ---
 
